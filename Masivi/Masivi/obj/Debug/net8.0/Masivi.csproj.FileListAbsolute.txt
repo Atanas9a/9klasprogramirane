@@ -1,0 +1,28 @@
+C:\Users\STUDENTS-1409-10\Desktop\Atanas 9a (1)\Masivi\Masivi\bin\Debug\net8.0\Masivi.exe
+C:\Users\STUDENTS-1409-10\Desktop\Atanas 9a (1)\Masivi\Masivi\bin\Debug\net8.0\Masivi.deps.json
+C:\Users\STUDENTS-1409-10\Desktop\Atanas 9a (1)\Masivi\Masivi\bin\Debug\net8.0\Masivi.runtimeconfig.json
+C:\Users\STUDENTS-1409-10\Desktop\Atanas 9a (1)\Masivi\Masivi\bin\Debug\net8.0\Masivi.dll
+C:\Users\STUDENTS-1409-10\Desktop\Atanas 9a (1)\Masivi\Masivi\bin\Debug\net8.0\Masivi.pdb
+C:\Users\STUDENTS-1409-10\Desktop\Atanas 9a (1)\Masivi\Masivi\obj\Debug\net8.0\Masivi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENTS-1409-10\Desktop\Atanas 9a (1)\Masivi\Masivi\obj\Debug\net8.0\Masivi.AssemblyInfoInputs.cache
+C:\Users\STUDENTS-1409-10\Desktop\Atanas 9a (1)\Masivi\Masivi\obj\Debug\net8.0\Masivi.AssemblyInfo.cs
+C:\Users\STUDENTS-1409-10\Desktop\Atanas 9a (1)\Masivi\Masivi\obj\Debug\net8.0\Masivi.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1409-10\Desktop\Atanas 9a (1)\Masivi\Masivi\obj\Debug\net8.0\Masivi.dll
+C:\Users\STUDENTS-1409-10\Desktop\Atanas 9a (1)\Masivi\Masivi\obj\Debug\net8.0\refint\Masivi.dll
+C:\Users\STUDENTS-1409-10\Desktop\Atanas 9a (1)\Masivi\Masivi\obj\Debug\net8.0\Masivi.pdb
+C:\Users\STUDENTS-1409-10\Desktop\Atanas 9a (1)\Masivi\Masivi\obj\Debug\net8.0\Masivi.genruntimeconfig.cache
+C:\Users\STUDENTS-1409-10\Desktop\Atanas 9a (1)\Masivi\Masivi\obj\Debug\net8.0\ref\Masivi.dll
+C:\Users\STUDENTS-1409-10\Desktop\Atanas 9a Batio opavihmeti zadachata s masivi hodi si opravi ocenkata\Masivi\Masivi\bin\Debug\net8.0\Masivi.exe
+C:\Users\STUDENTS-1409-10\Desktop\Atanas 9a Batio opavihmeti zadachata s masivi hodi si opravi ocenkata\Masivi\Masivi\bin\Debug\net8.0\Masivi.deps.json
+C:\Users\STUDENTS-1409-10\Desktop\Atanas 9a Batio opavihmeti zadachata s masivi hodi si opravi ocenkata\Masivi\Masivi\bin\Debug\net8.0\Masivi.runtimeconfig.json
+C:\Users\STUDENTS-1409-10\Desktop\Atanas 9a Batio opavihmeti zadachata s masivi hodi si opravi ocenkata\Masivi\Masivi\bin\Debug\net8.0\Masivi.dll
+C:\Users\STUDENTS-1409-10\Desktop\Atanas 9a Batio opavihmeti zadachata s masivi hodi si opravi ocenkata\Masivi\Masivi\bin\Debug\net8.0\Masivi.pdb
+C:\Users\STUDENTS-1409-10\Desktop\Atanas 9a Batio opavihmeti zadachata s masivi hodi si opravi ocenkata\Masivi\Masivi\obj\Debug\net8.0\Masivi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENTS-1409-10\Desktop\Atanas 9a Batio opavihmeti zadachata s masivi hodi si opravi ocenkata\Masivi\Masivi\obj\Debug\net8.0\Masivi.AssemblyInfoInputs.cache
+C:\Users\STUDENTS-1409-10\Desktop\Atanas 9a Batio opavihmeti zadachata s masivi hodi si opravi ocenkata\Masivi\Masivi\obj\Debug\net8.0\Masivi.AssemblyInfo.cs
+C:\Users\STUDENTS-1409-10\Desktop\Atanas 9a Batio opavihmeti zadachata s masivi hodi si opravi ocenkata\Masivi\Masivi\obj\Debug\net8.0\Masivi.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1409-10\Desktop\Atanas 9a Batio opavihmeti zadachata s masivi hodi si opravi ocenkata\Masivi\Masivi\obj\Debug\net8.0\Masivi.dll
+C:\Users\STUDENTS-1409-10\Desktop\Atanas 9a Batio opavihmeti zadachata s masivi hodi si opravi ocenkata\Masivi\Masivi\obj\Debug\net8.0\refint\Masivi.dll
+C:\Users\STUDENTS-1409-10\Desktop\Atanas 9a Batio opavihmeti zadachata s masivi hodi si opravi ocenkata\Masivi\Masivi\obj\Debug\net8.0\Masivi.pdb
+C:\Users\STUDENTS-1409-10\Desktop\Atanas 9a Batio opavihmeti zadachata s masivi hodi si opravi ocenkata\Masivi\Masivi\obj\Debug\net8.0\Masivi.genruntimeconfig.cache
+C:\Users\STUDENTS-1409-10\Desktop\Atanas 9a Batio opavihmeti zadachata s masivi hodi si opravi ocenkata\Masivi\Masivi\obj\Debug\net8.0\ref\Masivi.dll
