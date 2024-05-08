@@ -1,0 +1,7 @@
+C:\Users\STUDENTS-1409-10\Desktop\Atanas 9a (1)\26.2\26.2\bin\Debug\26.2.exe.config
+C:\Users\STUDENTS-1409-10\Desktop\Atanas 9a (1)\26.2\26.2\bin\Debug\26.2.exe
+C:\Users\STUDENTS-1409-10\Desktop\Atanas 9a (1)\26.2\26.2\bin\Debug\26.2.pdb
+C:\Users\STUDENTS-1409-10\Desktop\Atanas 9a (1)\26.2\26.2\obj\Debug\26.2.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1409-10\Desktop\Atanas 9a (1)\26.2\26.2\obj\Debug\26.2.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1409-10\Desktop\Atanas 9a (1)\26.2\26.2\obj\Debug\26.2.exe
+C:\Users\STUDENTS-1409-10\Desktop\Atanas 9a (1)\26.2\26.2\obj\Debug\26.2.pdb
