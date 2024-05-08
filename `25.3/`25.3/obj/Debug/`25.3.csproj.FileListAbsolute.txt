@@ -1,0 +1,7 @@
+C:\Users\STUDENTS-1409-10\Desktop\Atanas 9a (1)\`25.3\`25.3\bin\Debug\`25.3.exe.config
+C:\Users\STUDENTS-1409-10\Desktop\Atanas 9a (1)\`25.3\`25.3\bin\Debug\`25.3.exe
+C:\Users\STUDENTS-1409-10\Desktop\Atanas 9a (1)\`25.3\`25.3\bin\Debug\`25.3.pdb
+C:\Users\STUDENTS-1409-10\Desktop\Atanas 9a (1)\`25.3\`25.3\obj\Debug\`25.3.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1409-10\Desktop\Atanas 9a (1)\`25.3\`25.3\obj\Debug\`25.3.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1409-10\Desktop\Atanas 9a (1)\`25.3\`25.3\obj\Debug\`25.3.exe
+C:\Users\STUDENTS-1409-10\Desktop\Atanas 9a (1)\`25.3\`25.3\obj\Debug\`25.3.pdb

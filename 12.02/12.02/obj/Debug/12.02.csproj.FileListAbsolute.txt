@@ -1,0 +1,7 @@
+C:\Users\STUDENTS-1409-10\Desktop\Atanas 9a (1)\12.02\12.02\bin\Debug\12.02.exe.config
+C:\Users\STUDENTS-1409-10\Desktop\Atanas 9a (1)\12.02\12.02\bin\Debug\12.02.exe
+C:\Users\STUDENTS-1409-10\Desktop\Atanas 9a (1)\12.02\12.02\bin\Debug\12.02.pdb
+C:\Users\STUDENTS-1409-10\Desktop\Atanas 9a (1)\12.02\12.02\obj\Debug\12.02.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1409-10\Desktop\Atanas 9a (1)\12.02\12.02\obj\Debug\12.02.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1409-10\Desktop\Atanas 9a (1)\12.02\12.02\obj\Debug\12.02.exe
+C:\Users\STUDENTS-1409-10\Desktop\Atanas 9a (1)\12.02\12.02\obj\Debug\12.02.pdb
